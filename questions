@@ -1,0 +1,14 @@
+1) How many runs for each simulation? (My guess 50)
+2) If I don't find compatible solutions to LMNN & GMLVQ, can I settle for KNN & GLVQ?
+3) Is one Dataset enough? Is it superior to the 4 Datasets in context with my argument? (Being fix a variable to get better results)
+4) Is default datasize 1000 good enough?
+5) Do I need to test "out-of sample" error or only validation method accuracy "in-sample" error? What testing #-of-samples is enough?
+6) How long should my sections for each classifier be?
+7) What types of errors (other than ROC's AUC) should I consider?
+8) How to choose the correct hyperparameters for each classifier? Do I go with basic setup or should I find the best suit for each classifier? If "best suit" then I can assume that I'll only be using one     	dataset right?
+9) Which loss function should I be considering, RMSE or Other? What kind of other?
+10) Should I be using AIC, BIC and Mallow's C_p anywhere in my research? (Knowing that I am not doing model selection anymore)
+11) How can I improve my outline?
+12) How can I improve my pseudocode?
+13) Midterm form, do we need it, is our changements enough that we have to submit one?
+14) What is the ISBI list I have been added to by you?

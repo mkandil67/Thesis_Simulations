@@ -1,0 +1,20 @@
+Let me start by a quick summary of what my research is going to discuss. I am going to be researching two different validation methods and the differences they have when it comes to model evaluation. The two validation methods are k-fold Cross Validation and the .632+ Bootstrap Validation method. I will be studying the characteristics of the data-set you are using in your research to answer my 2 research questions:
+In general, which of these 2 methods performs better in terms of accuracy?
+What are certain data-set characteristics or properties that leads to one of the 2 methods out-performing the other?
+
+I will be choosing some data-sets from Machine Learning repositories that either share a characteristic with your data-set or are the complete opposite to your data-set in a certain characteristic. This way, I will be able to form a hypothesis while experimenting with these data-sets on how the validation methods perform in terms of accuracy on different scales of their shared characteristics with your own data-set. Finally, we will run our experiment on your data-set in order to understand whether our hypothesis was correct or not.
+
+I wanted to ask you some questions about the data-set after you give us a quick glimpse of it's features, dimensionality, balance, size and more.
+
+127 Patients
+1 Million Boxels
+58 Dimensions after PCA
+GMLVQ: Occali's Performs better on some cases
+GMLVQ.XBOOST
+73-75 accuracy
+5-fold Cross Validation
+Imbalance: Screenshot
+100x Repeated Random Validation
+What is Confusion Matrix
+
+
